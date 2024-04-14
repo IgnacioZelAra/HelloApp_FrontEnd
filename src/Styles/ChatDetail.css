@@ -1,0 +1,25 @@
+.toInfo{
+    display: flex;
+}
+
+.cont-toName{
+    display: flex;
+    align-items: center;
+    margin-left: 15px;
+}
+
+.toName{
+    color: white;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.moreButton{
+    background-color: transparent;
+    border: none;
+}
+
+.moreButton:hover{
+    background-color: #415179;
+    border-radius: 2px; 
+}
